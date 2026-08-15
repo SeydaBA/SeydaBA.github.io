@@ -115,9 +115,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Publications**
-      - Aydin, S. B., & Brandt, H. (2025). Advantages and limitations in the use of transfer learning for individual treatment effects in causal machine learning. *arXiv preprint arXiv:2512.16489*.
+      - Aydin, S. B., & Brandt, H. (2025). Evaluating transfer learning for treatment-effect estimation in small samples.
 
       **Conference Talks**
+      - "Selective Borrowing of External Controls via Uniform Confidence Bands." - International Meeting of the Psychometric Society (IMPS), Seoul, Korea 2026.
+      - "Evaluating transfer learning for treatment-effect estimation in small samples." - International Meeting of the Psychometric Society (IMPS), Seoul, Korea 2026.
       - "Estimation of Individual Treatment Effect with Transfer Learning" — International Meeting of the Psychometric Society (IMPS), Minneapolis, MN, USA, 2025.
       - "Individual Treatment Effect Estimation Through Transfer Learning" — Quantitative Section of the German Psychological Society (FGME), Berlin, 2025.
       - "Transfer Learning for Estimation of Individual Treatment Effect" — 7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik (DAGStat), Berlin, 2025.
