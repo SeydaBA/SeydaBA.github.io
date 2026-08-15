@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Seyda Betul Aydin
 title: Data Scientist
-email: seyda-betul.aydin@uni-tuebingen.de
+
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -18,6 +18,9 @@ instagram_username: seydabetulaydin
 linkedin_username: seydabetulaydin
 
 additional_links:
+- title: Email
+  icon: fas fa-envelope
+  url: mailto:seyda-betul.aydin@uni-tuebingen.de
 - title: Methods Center, University of Tübingen
   icon: fas fa-globe
   url: https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/aydin-seyda-betul-msc/
