@@ -34,9 +34,7 @@ linkedin_username: seydabetulaydin
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am a PhD student at the Methods Center, University of Tübingen, working on causal inference. My particular interest is transportability, or transfer learning: a causal effect estimated in one population does not automatically hold in another, and I work on the assumptions and methods that determine when such a transfer is justified. The question matters wherever findings from a study are used to inform decisions elsewhere.
 
 content:
   - title: Projects # Title for the section
