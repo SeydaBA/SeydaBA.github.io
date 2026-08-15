@@ -142,10 +142,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Worked on a research project about child labor in Turkey at the Istanbul Technical University Scientific Research Projects Department (ITU BAP).
 
-      - layout: top-middle
-        title: Data Collection
-        description: | # this will include new lines to allow paragraphs
-          Collected data for an article written by Asst. Prof. Aysegul Kayaoglu Yilmaz.
+
 
   - title: Additional Training
     layout: text
