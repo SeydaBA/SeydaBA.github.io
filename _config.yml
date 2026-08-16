@@ -50,7 +50,7 @@ content:
         sub_title: Data Scientist (Working Student)
         caption: July 2023 - July 2024
         description: | # this will include new lines to allow paragraphs
-          Worked as a data scientist working student alongside my master's degree, analyzing company data and turning it into insights that supported day-to-day business decisions.
+          Worked as a data scientist working student alongside my master's degree, analyzing company data and turning it into insights that supported day-to-day business decisions. I worked with Ana Maria Rios and Maxine Materne.
 
       - layout: left
         title: Turkish Airlines
@@ -71,7 +71,7 @@ content:
         sub_title: Researcher
         caption: 2018 · Turkey
         description: | # this will include new lines to allow paragraphs
-          Started as an intern and continued as a part-time researcher in the think tank extension of a media organization. Gained valuable tools and insights into the nuances of economic dynamics and political issues.
+          Started as an intern and continued as a part-time researcher in the think tank extension of a media organization. Gained valuable tools and insights into the nuances of economic dynamics and political issues. I was part of Research Centre team led by Tarek Cherkaoui.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
