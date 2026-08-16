@@ -150,7 +150,7 @@ content:
   - title: Additional Training
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Massachusetts Institute of Technology — Sloan School of Management** (Online, 2021): *Blockchain Technologies: Business Innovation and Application*, taught by Christian Catalini.
+      - **Massachusetts Institute of Technology — Sloan School of Management** (Online, 2021): *Blockchain Technologies: Business Innovation and Application*, taught by [Christian Catalini](https://mitsloan.mit.edu/faculty/directory/christian-catalini).
       - **London School of Economics and Political Science** (Summer School, 2018): *Introduction to Data Science and Big Data Analytics*, taught by Kenneth Benoit, Jack Blumenau, and Slava Mikhaylov.
 
   - title: Technical Skills
@@ -169,7 +169,7 @@ content:
       - **Music:**  Music has been part of my life since high school. I began with the *ney*, the traditional Turkish reed flute, and stayed with it for seven years — long enough for it to shape how I listen to everything else. I later spent two years studying the *tanbur* with supervision of [Özer Özel](https://www.youtube.com/OzerOzel), alongside lessons in *makam*, the modal system at the heart of Turkish classical music. I have also trained in traditional percussion (*bendir* and *kudüm*).
       - **Sports & Mind Sports:** Tennis and chess.
 
-Outside all of this, I love to travel — discovering new places and meeting new people is the part I enjoy most. Lately I have taken up photography as well, which has become a good excuse to look at familiar places a little more slowly.
+      Outside all of this, I love to travel — discovering new places and meeting new people is the part I enjoy most. Lately I have taken up photography as well, which has become a good excuse to look at familiar places a little more slowly.
  
 # Footer
 footer_show_references: false
