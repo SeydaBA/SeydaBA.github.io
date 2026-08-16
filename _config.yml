@@ -39,7 +39,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD student at the Methods Center, University of Tübingen, working on causal inference. My particular interest is transportability, or transfer learning: a causal effect estimated in one population does not automatically hold in another, and I work on the assumptions and methods that determine when such a transfer is justified. The question matters wherever findings from a study are used to inform decisions elsewhere.
+  I am a PhD student at the Methods Center, University of Tübingen, working on causal inference. My particular interest is transportability, or transfer learning: a causal effect estimated in one population does not automatically hold in another, and I work on the assumptions and methods that determine when such a transfer is justified. 
+  The question matters wherever findings from a study are used to inform decisions elsewhere. I am advised by Prof. Holger Brandt.
 
 content:
   - title: Experience # Title for the section
