@@ -14,8 +14,8 @@ title: Data Scientist
 darkmode: never
 
 # Social links
-instagram_username: seydabetulaydin
-linkedin_username: seydabetulaydin
+
+#linkedin_username: seydabetulaydin
 
 additional_links:
 - title: Email
@@ -54,7 +54,6 @@ content:
 
       - layout: left
         title: Turkish Airlines
-        link: turkishairlines.com
         sub_title: Financial Risk Specialist
         caption: March 2021 - October 2022
         description: | # this will include new lines to allow paragraphs
@@ -62,7 +61,6 @@ content:
 
       - layout: left
         title: Brookings Institution
-        link: brookings.edu
         sub_title: Researcher (Intern)
         caption: 2019 · Qatar
         description: | # this will include new lines to allow paragraphs
@@ -118,7 +116,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Publications**
-      - Aydin, S. B., & Brandt, H. (2025). Evaluating transfer learning for treatment-effect estimation in small samples.
+      - Aydin, S. B., & Brandt, H. (2025). Evaluating transfer learning for treatment-effect estimation in small samples. (under review)
 
       **Conference Talks**
       - "Selective Borrowing of External Controls via Uniform Confidence Bands." - International Meeting of the Psychometric Society (IMPS), Seoul, Korea 2026.
