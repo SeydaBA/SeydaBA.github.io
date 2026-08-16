@@ -83,7 +83,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Topic: *Transfer Learning in Causal Inference*, funded by the Deutsche Forschungsgemeinschaft (DFG).
 
-          Supervisors: Holger Brandt, Augustin Kelava.
+          Supervisors: [Prof. Holger Brandt](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/) (Supervisor), [Augustin Kelava](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/kelava-augustin-prof-dr/).
 
       - layout: left
         title: University of Tübingen
