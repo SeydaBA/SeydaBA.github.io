@@ -58,7 +58,7 @@ content:
         caption: March 2021 - October 2022
         description: | # this will include new lines to allow paragraphs
           Evaluated, controlled, and managed the company's financial risk. As part of the risk management team, I helped plan hedging strategies against fuel price, foreign exchange, and interest rate risks, while establishing and maintaining strong working relationships with banks.
-          I reported to Mustafa Çavdar and Murat Şeker.
+          I reported to Mustafa Çavdar and Prof. Murat Şeker.
       - layout: left
         title: Brookings Institution
         sub_title: Researcher (Intern)
@@ -71,7 +71,7 @@ content:
         sub_title: Researcher
         caption: 2018 · Turkey
         description: | # this will include new lines to allow paragraphs
-          Started as an intern and continued as a part-time researcher in the think tank extension of a media organization. Gained valuable tools and insights into the nuances of economic dynamics and political issues. I was part of Research Centre team led by Tarek Cherkaoui.
+          Started as an intern and continued as a part-time researcher in the think tank extension of a media organization. Gained valuable tools and insights into the nuances of economic dynamics and political issues. I was part of Research Centre team led by Dr. Tarek Cherkaoui.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -83,7 +83,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Topic: *Transfer Learning in Causal Inference*, funded by the Deutsche Forschungsgemeinschaft (DFG).
 
-          Supervisors: [Prof. Holger Brandt](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/) (Supervisor), [Augustin Kelava](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/kelava-augustin-prof-dr/).
+          Supervisors: [Prof. Holger Brandt](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/) (Supervisor), [Prof. Augustin Kelava](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/kelava-augustin-prof-dr/).
 
       - layout: left
         title: University of Tübingen
@@ -92,7 +92,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Thesis: *Transfer Learning in Causal Inference*.
 
-          Thesis committee: [Prof. Holger Brandt](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/) (Supervisor), [Augustin Kelava](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/kelava-augustin-prof-dr/).
+          Thesis committee: [Prof. Holger Brandt](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/) (Supervisor), [Prof. Augustin Kelava](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/kelava-augustin-prof-dr/).
 
       - layout: left
         title: Tilburg University
@@ -101,7 +101,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Thesis: *Predicting GDP Indicators*.
 
-          Thesis committee: [Madina Kurmangaliyeva](https://www.madinak.com/) (Supervisor), [R. Burak Uras](https://www.williams.edu/profile/bu1/).
+          Thesis committee: [Assoc. Prof. Madina Kurmangaliyeva](https://www.madinak.com/) (Supervisor), [Assoc. Prof. R. Burak Uras](https://www.williams.edu/profile/bu1/).
 
       - layout: left
         title: Istanbul Technical University
@@ -110,7 +110,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Thesis: *Prediction of Movements in the Turkish Stock Market Using Twitter*.
 
-          Thesis committee: [Christopher Hannum](https://www.newuu.uz/en/employee/view/faculty-members/320) (Supervisor), David Seymour, Serdar Altay.
+          Thesis committee: [Assoc. Prof. Christopher Hannum](https://www.newuu.uz/en/employee/view/faculty-members/320) (Supervisor), Dr. David Seymour, Assoc. Prof. Serdar Altay.
 
   - title: Publications & Conferences
     layout: text
