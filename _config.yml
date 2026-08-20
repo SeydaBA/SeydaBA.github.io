@@ -101,7 +101,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Thesis: *Predicting GDP Indicators*.
 
-          Thesis committee: [Assoc. Prof. Madina Kurmangaliyeva](https://www.madinak.com/) (Supervisor), [Assoc. Prof. R. Burak Uras](https://www.williams.edu/profile/bu1/).
+          Thesis committee: [Dr. Madina Kurmangaliyeva](https://www.madinak.com/) (Supervisor), [Dr. R. Burak Uras](https://www.williams.edu/profile/bu1/).
 
       - layout: left
         title: Istanbul Technical University
@@ -110,7 +110,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Thesis: *Prediction of Movements in the Turkish Stock Market Using Twitter*.
 
-          Thesis committee: [Assoc. Prof. Christopher Hannum](https://www.newuu.uz/en/employee/view/faculty-members/320) (Supervisor), Dr. David Seymour, Assoc. Prof. Serdar Altay.
+          Thesis committee: [Dr. Christopher Hannum](https://www.newuu.uz/en/employee/view/faculty-members/320) (Supervisor), Dr. David Seymour, Dr. Serdar Altay.
 
   - title: Publications & Conferences
     layout: text
