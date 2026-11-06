@@ -1,0 +1,5 @@
+# Optional: link and color the venue badge (the `abbr` field of a publication in _bibliography/papers.bib), e.g.:
+# "IMPS":
+#   url: https://example.org
+#   color: "#00369f"
+{}

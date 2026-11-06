@@ -1,0 +1,116 @@
+# CV data in RenderCV format (https://rendercv.com), shown on the CV page (_pages/cv.md).
+#
+# How the theme renders this file:
+#   - Experience and Education show years only ("2023 - 2024"); a missing end_date shows "Present".
+#   - An entry with a single `date` (instead of start_date/end_date) shows just that year.
+#   - `summary` and `highlights` accept Markdown (links, *italics*, **bold**).
+#   - Sections are shown in the order below, except Experience, which always comes first.
+cv:
+  name: Seyda Betul Aydin
+  label: Data Scientist
+  email: seyda-betul.aydin@uni-tuebingen.de
+  summary: >-
+    I am a PhD student at the Methods Center, University of Tübingen, working on causal inference. My particular interest is transportability, or transfer learning: a causal effect estimated in one population does not automatically hold in another, and I work on the assumptions and methods that determine when such a transfer is justified.
+
+  sections:
+    Experience:
+      - company: About You
+        position: Data Scientist (Working Student)
+        start_date: 2023-07
+        end_date: 2024-07
+        summary: >-
+          Worked as a data scientist working student alongside my master's degree, analyzing company data and turning it into insights that supported day-to-day business decisions. I worked with Ana Maria Rios and Maxine Materne.
+
+      - company: Turkish Airlines
+        position: Financial Risk Specialist
+        start_date: 2021-03
+        end_date: 2022-10
+        summary: >-
+          Evaluated, controlled, and managed the company's financial risk. As part of the risk management team, I helped plan hedging strategies against fuel price, foreign exchange, and interest rate risks, while establishing and maintaining strong working relationships with banks. I reported to Mustafa Çavdar and [Prof. Murat Şeker](https://turkishtechnic.com/tr/kurumsal/yonetim-kurulu/prof-dr-murat-seker).
+
+      - company: Brookings Institution
+        position: Researcher (Intern)
+        location: Qatar
+        date: 2019
+        summary: >-
+          Internship at one of the world's leading research institutions. I worked with Dr. Tarik M. Yousef on IMF Governance Indicators data and engaged with topics in international relations and economics alongside world-class experts.
+
+      - company: TRT World
+        position: Researcher
+        location: Turkey
+        date: 2018
+        summary: >-
+          Started as an intern and continued as a part-time researcher in the think tank extension of a media organization. Gained valuable tools and insights into the nuances of economic dynamics and political issues. I was part of Research Centre team led by Dr. Tarek Cherkaoui.
+
+    Education:
+      - institution: University of Tübingen
+        studyType: PhD
+        area: Causal Machine Learning
+        start_date: 2024
+        highlights:
+          - "Topic: *Transfer Learning in Causal Inference*, funded by the Deutsche Forschungsgemeinschaft (DFG)."
+          - "Supervisors: [Prof. Holger Brandt](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/) (Supervisor), [Prof. Augustin Kelava](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/kelava-augustin-prof-dr/)."
+
+      - institution: University of Tübingen
+        studyType: MSc
+        area: Quantitative Data Science Methods
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - "Thesis: *Transfer Learning in Causal Inference*."
+          - "Thesis committee: [Prof. Holger Brandt](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/) (Supervisor), [Prof. Augustin Kelava](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/kelava-augustin-prof-dr/)."
+
+      - institution: Tilburg University
+        studyType: MSc
+        area: Economics
+        start_date: 2019
+        end_date: 2020
+        highlights:
+          - "Thesis: *Predicting GDP Indicators*."
+          - "Thesis committee: [Dr. Madina Kurmangaliyeva](https://www.madinak.com/) (Supervisor), [Dr. R. Burak Uras](https://www.williams.edu/profile/bu1/)."
+
+      - institution: Istanbul Technical University
+        studyType: BSc
+        area: Economics
+        start_date: 2015
+        end_date: 2019
+        highlights:
+          - "Thesis: *Prediction of Movements in the Turkish Stock Market Using Twitter*."
+          - "Thesis committee: [Dr. Christopher Hannum](https://www.newuu.uz/en/employee/view/faculty-members/320) (Supervisor), Dr. David Seymour, Dr. Serdar Altay."
+
+    Publications:
+      - title: Evaluating transfer learning for treatment-effect estimation in small samples
+        publisher: Under review
+        releaseDate: 2025
+        summary: "Aydin, S. B., & Brandt, H."
+
+    Conference Talks:
+      - bullet: '"Selective Borrowing of External Controls via Uniform Confidence Bands." — International Meeting of the Psychometric Society (IMPS), Seoul, Korea 2026.'
+      - bullet: '"Evaluating transfer learning for treatment-effect estimation in small samples." — International Meeting of the Psychometric Society (IMPS), Seoul, Korea 2026.'
+      - bullet: '"Estimation of Individual Treatment Effect with Transfer Learning" — International Meeting of the Psychometric Society (IMPS), Minneapolis, MN, USA, 2025.'
+      - bullet: '"Individual Treatment Effect Estimation Through Transfer Learning" — Quantitative Section of the German Psychological Society (FGME), Berlin, 2025.'
+      - bullet: '"Transfer Learning for Estimation of Individual Treatment Effect" — 7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik (DAGStat), Berlin, 2025.'
+      - bullet: '"Transfer Learning for Causal Inference in Health Sciences" — 53rd German Psychological Society (DGPs) Congress, Vienna, 2024.'
+
+    Teaching:
+      - bullet: "**Causal Inference** — Fall 2024, University of Tübingen"
+      - bullet: "**Connecting the Threads** (Advanced Topics in Causal Inference) — Spring 2024, University of Tübingen"
+
+    Projects:
+      - name: AMA Innovation Lab
+        summary: Worked with Asst. Prof. Quentin Stoeffler on the AMA Innovation Lab project to insure cotton crops for small-scale farmer groups in Burkina Faso. The project is funded by USAID.
+
+      - name: ITU - BAP
+        summary: Worked on a research project about child labor in Turkey at the Istanbul Technical University Scientific Research Projects Department (ITU BAP).
+
+    Additional Training:
+      - bullet: "**Massachusetts Institute of Technology — Sloan School of Management** (Online, 2021): *Blockchain Technologies: Business Innovation and Application*, taught by [Christian Catalini](https://mitsloan.mit.edu/faculty/directory/christian-catalini)."
+      - bullet: "**London School of Economics and Political Science** (Summer School, 2018): *Introduction to Data Science and Big Data Analytics*, taught by Kenneth Benoit, Jack Blumenau, and Slava Mikhaylov."
+
+    Technical Skills:
+      - label: Programming Languages
+        details: R, Python
+      - label: Econometric Packages
+        details: STATA
+      - label: Typesetting
+        details: LaTeX

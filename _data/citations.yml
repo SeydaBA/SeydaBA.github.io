@@ -1,0 +1,5 @@
+# Google Scholar citation counts. Only used if a publication has a `google_scholar_id`
+# in _bibliography/papers.bib and the (optional) citation-update workflow is set up.
+metadata:
+  last_updated: "2026-11-06"
+papers: {}

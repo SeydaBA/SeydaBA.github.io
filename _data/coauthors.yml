@@ -1,0 +1,5 @@
+# Co-author links shown in the publication list.
+# The key is the co-author's last name, lower-cased and without accents.
+"brandt":
+  - firstname: ["Holger", "H."]
+    url: https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/
