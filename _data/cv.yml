@@ -9,8 +9,6 @@ cv:
   name: Seyda Betul Aydin
   label: Data Scientist
   email: seyda-betul.aydin@uni-tuebingen.de
-  summary: >-
-    I am a PhD student at the Methods Center, University of Tübingen, working on causal inference. My particular interest is transportability, or transfer learning: a causal effect estimated in one population does not automatically hold in another, and I work on the assumptions and methods that determine when such a transfer is justified.
 
   sections:
     Experience:
