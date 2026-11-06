@@ -1,4 +1,11 @@
-## A little more about me
+   ---
+   layout: page
+   title: more
+   permalink: /more/
+   description: A little more about me.
+   nav: true
+   nav_order: 6
+   ---
 
 Beyond research, some of the things I care about and enjoy:
 
