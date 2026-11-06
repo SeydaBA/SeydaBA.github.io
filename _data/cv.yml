@@ -10,36 +10,6 @@ cv:
   label: Data Scientist
   email: seyda-betul.aydin@uni-tuebingen.de
 
-  sections:
-    Experience:
-      - company: About You
-        position: Data Scientist (Working Student)
-        start_date: 2023-07
-        end_date: 2024-07
-        summary: >-
-          Worked as a data scientist working student alongside my master's degree, analyzing company data and turning it into insights that supported day-to-day business decisions. I worked with Ana Maria Rios and Maxine Materne.
-
-      - company: Turkish Airlines
-        position: Financial Risk Specialist
-        start_date: 2021-03
-        end_date: 2022-10
-        summary: >-
-          Evaluated, controlled, and managed the company's financial risk. As part of the risk management team, I helped plan hedging strategies against fuel price, foreign exchange, and interest rate risks, while establishing and maintaining strong working relationships with banks. I reported to Mustafa Çavdar and [Prof. Murat Şeker](https://turkishtechnic.com/tr/kurumsal/yonetim-kurulu/prof-dr-murat-seker).
-
-      - company: Brookings Institution
-        position: Researcher (Intern)
-        location: Qatar
-        date: 2019
-        summary: >-
-          Internship at one of the world's leading research institutions. I worked with Dr. Tarik M. Yousef on IMF Governance Indicators data and engaged with topics in international relations and economics alongside world-class experts.
-
-      - company: TRT World
-        position: Researcher
-        location: Turkey
-        date: 2018
-        summary: >-
-          Started as an intern and continued as a part-time researcher in the think tank extension of a media organization. Gained valuable tools and insights into the nuances of economic dynamics and political issues. I was part of Research Centre team led by Dr. Tarek Cherkaoui.
-
     Education:
       - institution: University of Tübingen
         studyType: PhD
@@ -75,6 +45,37 @@ cv:
         highlights:
           - "Thesis: *Prediction of Movements in the Turkish Stock Market Using Twitter*."
           - "Thesis committee: [Dr. Christopher Hannum](https://www.newuu.uz/en/employee/view/faculty-members/320) (Supervisor), Dr. David Seymour, Dr. Serdar Altay."
+
+  sections:
+    Experience:
+      - company: About You
+        position: Data Scientist (Working Student)
+        start_date: 2023-07
+        end_date: 2024-07
+        summary: >-
+          Worked as a data scientist working student alongside my master's degree, analyzing company data and turning it into insights that supported day-to-day business decisions. I worked with Ana Maria Rios and Maxine Materne.
+
+      - company: Turkish Airlines
+        position: Financial Risk Specialist
+        start_date: 2021-03
+        end_date: 2022-10
+        summary: >-
+          Evaluated, controlled, and managed the company's financial risk. As part of the risk management team, I helped plan hedging strategies against fuel price, foreign exchange, and interest rate risks, while establishing and maintaining strong working relationships with banks. I reported to Mustafa Çavdar and [Prof. Murat Şeker](https://turkishtechnic.com/tr/kurumsal/yonetim-kurulu/prof-dr-murat-seker).
+
+      - company: Brookings Institution
+        position: Researcher (Intern)
+        location: Qatar
+        date: 2019
+        summary: >-
+          Internship at one of the world's leading research institutions. I worked with Dr. Tarik M. Yousef on IMF Governance Indicators data and engaged with topics in international relations and economics alongside world-class experts.
+
+      - company: TRT World
+        position: Researcher
+        location: Turkey
+        date: 2018
+        summary: >-
+          Started as an intern and continued as a part-time researcher in the think tank extension of a media organization. Gained valuable tools and insights into the nuances of economic dynamics and political issues. I was part of Research Centre team led by Dr. Tarek Cherkaoui.
+
 
     Publications:
       - title: Evaluating transfer learning for treatment-effect estimation in small samples
