@@ -12,6 +12,7 @@ cv:
 
     Education:
       - institution: University of Tübingen
+        location: Germany
         studyType: PhD
         area: Causal Machine Learning
         start_date: 2024
@@ -20,6 +21,7 @@ cv:
           - "Supervisors: [Prof. Holger Brandt](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/) (Supervisor), [Prof. Augustin Kelava](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/kelava-augustin-prof-dr/)."
 
       - institution: University of Tübingen
+        location: Germany
         studyType: MSc
         area: Quantitative Data Science Methods
         start_date: 2022
@@ -29,6 +31,7 @@ cv:
           - "Thesis committee: [Prof. Holger Brandt](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/) (Supervisor), [Prof. Augustin Kelava](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/kelava-augustin-prof-dr/)."
 
       - institution: Tilburg University
+        location: Netherlands
         studyType: MSc
         area: Economics
         start_date: 2019
@@ -38,6 +41,7 @@ cv:
           - "Thesis committee: [Dr. Madina Kurmangaliyeva](https://www.madinak.com/) (Supervisor), [Dr. R. Burak Uras](https://www.williams.edu/profile/bu1/)."
 
       - institution: Istanbul Technical University
+        location: Turkey
         studyType: BSc
         area: Economics
         start_date: 2015
@@ -50,6 +54,7 @@ cv:
     Experience:
       - company: About You
         position: Data Scientist (Working Student)
+        location: Germany
         start_date: 2023-07
         end_date: 2024-07
         summary: >-
@@ -57,6 +62,7 @@ cv:
 
       - company: Turkish Airlines
         position: Financial Risk Specialist
+        location: Turkey
         start_date: 2021-03
         end_date: 2022-10
         summary: >-
