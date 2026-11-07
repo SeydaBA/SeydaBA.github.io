@@ -7,7 +7,6 @@
 #   - Sections are shown in the order below (see _includes/cv/render.liquid).
 cv:
   name: Seyda Betul Aydin
-  label: Data Scientist
   email: seyda-betul.aydin@uni-tuebingen.de
 
   sections:
