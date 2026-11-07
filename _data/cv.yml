@@ -11,6 +11,14 @@ cv:
   email: seyda-betul.aydin@uni-tuebingen.de
 
   sections:
+      Education:
+      - institution: New York University
+        location: USA
+        studyType: Visiting Research Scholar
+        start_date: 2026
+        highlights:
+          - "Supervisor: [Dr. Ivan Diaz](https://idiaz.xyz/index.html)
+
     Education:
       - institution: University of Tübingen
         location: Germany
