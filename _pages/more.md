@@ -24,5 +24,5 @@ Outside all of this, I love to travel. Discovering new places and meeting new pe
     </div>
 </div>
 <div class="caption">
-    Two of my own photos: [Somewhere between Alpnach and Lucerne, Switzerland] (left) and the Neckar in Tübingen (right).
+    Two photographs of my own: somewhere between Alpnach and Lucerne, Switzerland (first); and the Neckar River and Hölderlin’s house in Tübingen (second).
 </div>
