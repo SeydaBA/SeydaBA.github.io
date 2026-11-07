@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications and manuscripts under review, most recent first.
 nav: true
 nav_order: 1
 ---
