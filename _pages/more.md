@@ -17,10 +17,10 @@ Outside all of this, I love to travel — discovering new places and meeting new
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sw.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="[Place of the left photo]" %}
+        {% include figure.liquid loading="eager" path="assets/img/sw.JPG" class="img-fluid rounded z-depth-1" zoomable=true alt="[Place of the left photo]" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tub.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="The Neckar in Tübingen" %}
+        {% include figure.liquid loading="eager" path="assets/img/tub.JPG" class="img-fluid rounded z-depth-1" zoomable=true alt="The Neckar in Tübingen" %}
     </div>
 </div>
 <div class="caption">
