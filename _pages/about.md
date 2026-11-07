@@ -26,5 +26,5 @@ latest_posts:
 I am a PhD student at the Methods Center, University of Tübingen, working on causal inference. My particular interest is transportability, or transfer learning: a causal effect estimated in one population does not automatically hold in another, and I work on the assumptions and methods that determine when such a transfer is justified.
 The question matters wherever findings from a study are used to inform decisions elsewhere. My supervisor is [Prof. Holger Brandt](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/institute/team/brandt-holger-prof-dr/).
 
-Currently, I am a Visiting Research Scholar in the Department of Population Health at NYU Grossman School of Medicine, where I am lucky to work with [Dr. Ivan Diaz](https://idiaz.xyz/index.html) from October 2026 to February 2027.
+Currently, I am a Visiting Research Scholar in the Department of Population Health at NYU Grossman School of Medicine, where I am lucky to work with [Dr. Ivan Diaz](https://idiaz.xyz/index.html).
 
