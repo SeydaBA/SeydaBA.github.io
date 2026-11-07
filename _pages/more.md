@@ -13,7 +13,7 @@ Beyond research, some of the things I care about and enjoy:
 - I like playing tennis and time to time I play chess.
 - I enjoy taking part in volunteer activities whenever I have the opportunity. During my time volunteering with TİKA (Turkish Cooperation and Coordination Agency) in North Macedonia, I had the opportunity to support local students, distribute school supplies, and take part in school improvement initiatives. It was a meaningful experience that allowed me to make contribution and make a positive difference in the lives of others.
 
-Outside all of this, I love to travel — discovering new places and meeting new people is the part I enjoy most. Lately I have taken up photography as well, which has become a good excuse to look at familiar places a little more slowly.
+Outside all of this, I love to travel. Discovering new places and meeting new people is the part I enjoy most. Lately I have taken up photography as well, which has become a good excuse to look at familiar places a little more slowly.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
